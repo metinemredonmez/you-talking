@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build script ara çıktıları
+tmp/
+
+# Kopya / geçici dosyalar
+*kopyası*
+*.tmp
+*~

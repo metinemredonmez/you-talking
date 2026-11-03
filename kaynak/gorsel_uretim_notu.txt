@@ -1,0 +1,13 @@
+You Talking görsel üretim notu
+29 Eylül 2026
+
+Araç: yerleşik image_gen; CLI veya API anahtarı kullanılmadı.
+Amaç: özgün, tanıtım amaçlı mobil uygulama konsepti. Çalışan uygulamanın ekran görüntüsü değildir.
+Görsel yön: sıcak bej, koyu mürekkep rengi, mercan düğmeler, lavanta ve adaçayı vurguları; normal insan avatarlarında pelüş hayvan başlıkları.
+Ekranlar: ana sayfa, üç arkadaşın lobisi, dördüncü kişinin katıldığı canlı sesli oda.
+Üretilen kişiler kurgusaldır. İncelenen rakiplerin logoları veya ekranları kopyalanmadı.
+
+Görseldeki mikro metinler tasarım önerisidir. Kesin ürün kuralları PDF içindeki akış ve eşleştirme bölümleridir.
+
+Son düzeltme: orta telefonda "Karma oda tercihi" altındaki açıklama "Tercihlere uygun birini bul." olarak image_gen ile düzenlendi. Odanın herkese açık olduğu izlenimi kaldırıldı.
+Son dosya: gorseller/You_Talking_Konsept.png
